@@ -1,2 +1,2 @@
 # L2SQL
-Startling SQL Repo
+Starting SQL Repo
